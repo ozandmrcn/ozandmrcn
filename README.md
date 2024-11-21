@@ -13,7 +13,12 @@ I'm always open to collaboration, especially on projects related to:
 
 ## 🛠️ Tech Stack  
 - **Languages:** HTML, CSS (Learning Bootstrap & JavaScript)  
-- **Tools:** VSCode, Git, GitHub  
+- **Tools:** VSCode, Git, GitHub
+
+## 🌍 Languages I Speak  
+- **Kurdish** (Native)  
+- **Turkish** (Fluent)  
+- **English** (Intermediate/Advanced)  
 
 ---
 
