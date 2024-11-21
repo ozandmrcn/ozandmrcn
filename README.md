@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer in trainin
 ## 💬 Let's Collaborate!  
 I'm always open to collaboration, especially on projects related to:  
 - 🌐 **Web Sites**
-- 📱 **Web applications**   
+- 📱 **Web Applications**   
 
 ## 🛠️ Tech Stack  
 - **Languages:** HTML, CSS (Learning Bootstrap & JavaScript)  
