@@ -22,4 +22,4 @@ I'm always open to collaboration, especially on projects related to:
 
 ---
 
-Feel free to explore my repositories and drop a star ⭐ if you like what you see. Let's code something awesome together!  
+Feel free to explore my repositories and drop a star ⭐ if you like what you see.
