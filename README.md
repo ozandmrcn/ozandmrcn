@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer in trainin
 - 🌱 **Currently Learning:** HTML, CSS, Bootstrap, and advancing towards JavaScript.  
 - 👀 **Interests:** Front-End development, game design and exploring new technologies.    
 
-## 💬 Let's Collaborate!  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Let's Collaborate!  
 I'm always open to collaboration, especially on projects related to:  
 - 🌐 **Web Sites**
 - 📱 **Web Applications**   
