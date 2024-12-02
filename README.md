@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer in training** with a love for technology, and crafting meaningful code. Here's a bit about me:  
 
-## ![120fps](https://github.com/user-attachments/assets/83977528-74ff-4aa8-8894-4279bc0c9cd2) About Me   
+## ![Animation - 1733146398848](https://github.com/user-attachments/assets/e3b3a887-0a04-4a86-b7a1-5c289a0a3a4d) About Me   
 - 🌱 **Currently Learning:** HTML, CSS, Bootstrap, and advancing towards JavaScript.  
 - 👀 **Interests:** Front-End development, game design and exploring new technologies.    
 
