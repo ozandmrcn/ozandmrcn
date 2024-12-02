@@ -1,9 +1,8 @@
-# 👋 Hi, I’m Ozan Demircan | @ozandmrcn  🚀
+# 👋 Hi, I’m Ozan Demircan | @ozandmrcn
 
 Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer in training** with a love for technology, and crafting meaningful code. Here's a bit about me:  
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" />
- About Me   
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> About Me   
 - 🌱 **Currently Learning:** HTML, CSS, Bootstrap, and advancing towards JavaScript.  
 - 👀 **Interests:** Front-End development, game design and exploring new technologies.    
 
