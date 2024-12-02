@@ -1,8 +1,8 @@
-# 👋 Hi, I’m Ozan Demircan | @ozandmrcn  
+# 👋 Hi, I’m Ozan Demircan | @ozandmrcn  🚀
 
 Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer in training** with a love for technology, and crafting meaningful code. Here's a bit about me:  
 
-## 🚀 About Me   
+## ![120fps](https://github.com/user-attachments/assets/83977528-74ff-4aa8-8894-4279bc0c9cd2) About Me   
 - 🌱 **Currently Learning:** HTML, CSS, Bootstrap, and advancing towards JavaScript.  
 - 👀 **Interests:** Front-End development, game design and exploring new technologies.    
 
