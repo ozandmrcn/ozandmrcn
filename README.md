@@ -34,8 +34,8 @@ I'm always open to collaboration, especially on projects related to:
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-%2300A4DB.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&width=50)
-  ![SQL](https://img.shields.io/badge/SQL-%23000.svg?style=for-the-badge&logo=sql&logoColor=white&width=50)
+  ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-%2300A4DB.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white&width=70)
+  ![SQL](https://img.shields.io/badge/SQL-%23000.svg?style=for-the-badge&logo=sql&logoColor=white&width=70)
   ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> Socials:
