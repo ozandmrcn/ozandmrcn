@@ -34,8 +34,8 @@ I'm always open to collaboration, especially on projects related to:
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![SQL Server](https://img.shields.io/badge/SQL_Server-0078D4.svg?style=for-the-badge&logo=https://camo.githubusercontent.com/29dde2a136637475ff7726f780237361f2f1915e8e37b67fadb0b2eb5af21478/68747470733a2f2f7777772e7376677265706f2e636f6d2f73686f772f3330333232392f6d6963726f736f66742d73716c2d7365727665722d6c6f676f2e737667&logoColor=white)
-  ![SQL](https://img.shields.io/badge/SQL-%23000.svg?style=for-the-badge&logo=sql&logoColor=white&width=70)
+  ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-2022-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-00758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" alt="Globe with Meridians" width="25" height="25" /> Socials:
