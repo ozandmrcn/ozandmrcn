@@ -34,7 +34,7 @@ I'm always open to collaboration, especially on projects related to:
   ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-  ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-2022-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+ ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
   ![SQL](https://img.shields.io/badge/SQL-00758F.svg?style=for-the-badge&logo=postgresql&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 
