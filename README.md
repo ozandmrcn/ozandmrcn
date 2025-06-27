@@ -3,6 +3,16 @@
 Welcome to my GitHub profile! I'm an aspiring **Full-Stack Developer** in training with a love for technology and crafting meaningful code. Here's a bit about me:  
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> About Me   
+
+### 📄 Resume  
+Looking to learn more about my professional background?
+
+👉 [**Download My Resume (PDF)**](https://github.com/user-attachments/files/20936755/Ozan.Demircan.pdf)
+
+Or check out a quick preview below:
+
+[![Resume Preview](https://img.shields.io/badge/Click%20to%20View%20Resume-%20Ozan%20Demircan-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/user-attachments/files/20936755/Ozan.Demircan.pdf)
+
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Animals/Seedling.png" alt="Seedling" width="25" height="25" /> **Currently Working:** Didiyos as **Front End Developer**   
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" /> **Interests:** Full-Stack development, game design and exploring new technologies.    
 
@@ -18,6 +28,7 @@ I'm always open to collaboration, especially on projects related to:
 - **English** (Intermediate/Advanced)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Tech Stack
+
 
 - **Languages:**  
   ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
