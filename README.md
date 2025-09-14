@@ -21,7 +21,7 @@ I'm always open to collaboration, especially on projects related to:
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20Showing%20Americas.png" alt="Globe Showing Americas" width="25" height="25" /> Languages I Speak  
 - **Turkish** (Fluent)
 - **Kurdish** (Fluent)  
-- **English** (Intermediate/Advanced)
+- **English** (C1)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25" /> Tech Stack
 
