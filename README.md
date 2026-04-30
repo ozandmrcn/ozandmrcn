@@ -1,6 +1,6 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand" width="25" height="25" /> Hi, I’m Ozan Demircan | @ozandmrcn
 
-Welcome to my GitHub profile! I'm an aspiring **Full-Stack Developer** in training with a love for technology and crafting meaningful code. Here's a bit about me:  
+Welcome to my GitHub profile! I’m a Full-Stack Developer focused on building scalable and performant web and mobile applications. I specialize in React ecosystem development, including React Native for mobile, and enjoy turning complex problems into clean, maintainable solutions. Here's a bit about me:  
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> About Me   
 
