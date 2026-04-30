@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I’m a **Full-Stack Developer** focused on buildi
 
 Looking to learn more about my professional background?
 
-[![Resume Download](https://img.shields.io/badge/Click%20to%20Download%20Resume-Ozan%20Demircan-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/user-attachments/files/27236667/Ozan.Demircan.pdf)
+[![Resume Download](https://img.shields.io/badge/Click%20to%20Download%20Resume-Ozan%20Demircan-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/user-attachments/files/27238964/Ozan.Demircan.pdf)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" width="22" /> Let's Collaborate
 
