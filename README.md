@@ -10,7 +10,7 @@ Welcome to my GitHub profile! I'm an aspiring **Full-Stack Developer** in traini
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Page%20Facing%20Up.png" alt="Page Facing Up" width="25" height="25" /> Resume  
 Looking to learn more about my professional background ?
 
-[![Resume Download](https://img.shields.io/badge/Click%20to%20Download%20Resume-%20Ozan%20Demircan-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/user-attachments/files/20936755/Ozan.Demircan.pdf)
+[![Resume Download](https://img.shields.io/badge/Click%20to%20Download%20Resume-%20Ozan%20Demircan-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/user-attachments/files/27235113/Ozan.Demircan.pdf)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Let's Collaborate!  
 I'm always open to collaboration, especially on projects related to:  
