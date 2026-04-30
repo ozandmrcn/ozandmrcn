@@ -53,13 +53,13 @@ Git, GitHub, Firebase, SQL Server, PostgreSQL, MongoDB, Postman, SASS
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Globe%20with%20Meridians.png" width="20" /> Socials
 
-- Email: ozandmrcn47@gmail.com  
-- LinkedIn: https://linkedin.com/in/ozandemircan47  
-- Instagram: https://instagram.com/ozan_dmrcn  
-- Discord: https://discord.gg/4QaCDpvRCD  
-- YouTube: https://youtube.com/@mr.mercury4714  
-- X: https://x.com/@ozandmrcn  
-- Reddit: https://reddit.com/user/Latter_Hunter9899  
+[![Email](https://img.shields.io/badge/Email-ozandmrcn47%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ozandmrcn47@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ozan%20Demircan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ozandemircan47)
+[![Instagram](https://img.shields.io/badge/Instagram-@ozan__dmrcn-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ozan_dmrcn)
+[![Discord](https://img.shields.io/badge/Discord-ozan-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4QaCDpvRCD)
+[![YouTube](https://img.shields.io/badge/YouTube-Mr.Mercury-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mr.mercury4714)
+[![X](https://img.shields.io/badge/X-@ozandmrcn-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@ozandmrcn)
+[![Reddit](https://img.shields.io/badge/Reddit-u/Latter_Hunter9899-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/Latter_Hunter9899)
 
 ---
 
