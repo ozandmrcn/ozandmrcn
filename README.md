@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I’m a **Full-Stack Developer** focused on buildi
 
 Looking to learn more about my professional background?
 
-[![Resume Download](https://img.shields.io/badge/Click%20to%20Download%20Resume-Ozan%20Demircan-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/user-attachments/files/27239309/Ozan.Demircan.pdf)
+[![Resume Download](https://img.shields.io/badge/Click%20to%20Download%20Resume-Ozan%20Demircan-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/user-attachments/files/31890762/Ozan.Demircan.pdf)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" width="22" /> Let's Collaborate
 
@@ -52,6 +52,7 @@ Looking to learn more about my professional background?
 - **Tools & Databases:**  
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
   ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
   ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927.svg?style=for-the-badge)
   ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
