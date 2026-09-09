@@ -70,9 +70,4 @@ Looking to learn more about my professional background?
 [![X](https://img.shields.io/badge/X-@ozandmrcn-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/@ozandmrcn)
 [![Reddit](https://img.shields.io/badge/Reddit-u/Latter_Hunter9899-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/user/Latter_Hunter9899)
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="22" /> GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=ozandmrcn&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ozandmrcn&theme=dark&hide_border=false&layout=compact)
-
 ⭐ If you like my work, feel free to star my repositories.
