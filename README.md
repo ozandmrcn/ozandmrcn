@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I’m a **Full-Stack Developer** focused on buildi
 
 Looking to learn more about my professional background?
 
-[![Resume Download](https://img.shields.io/badge/Click%20to%20Download%20Resume-Ozan%20Demircan-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/user-attachments/files/31890762/Ozan.Demircan.pdf)
+[![Resume Download](https://img.shields.io/badge/Click%20to%20Download%20Resume-Ozan%20Demircan-blue?style=for-the-badge&logo=readthedocs&logoColor=white)](https://github.com/user-attachments/files/35545146/Ozan.Demircan.pdf)
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" width="22" /> Let's Collaborate
 
@@ -66,6 +66,7 @@ Looking to learn more about my professional background?
 
 [![Email](https://img.shields.io/badge/Email-ozandmrcn47%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ozandmrcn47@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ozan%20Demircan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ozandemircan47)
+[![Portfolio](https://img.shields.io/badge/Visit%20My%20Portfolio-Ozan%20Demircan-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ozandemircan.vercel.app)
 [![Instagram](https://img.shields.io/badge/Instagram-@ozan_dmrcn-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ozan_dmrcn)
 [![Discord](https://img.shields.io/badge/Discord-ozan-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/4QaCDpvRCD)
 [![YouTube](https://img.shields.io/badge/YouTube-Mr.Mercury-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@mr.mercury4714)
